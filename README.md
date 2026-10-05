@@ -1,2 +1,2 @@
-# Estudos-em-c
-Estou reforçando conhecimentos de logica utilizando C
+# Estudos em c
+Estou reforçando conhecimentos de lógica utilizando C
